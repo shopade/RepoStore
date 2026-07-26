@@ -1,0 +1,6 @@
+{
+  "name": "ShakeDice",
+  "description": "A shake-to-roll dice roller app for board game players with haptic feedback, custom dice faces, and roll history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
